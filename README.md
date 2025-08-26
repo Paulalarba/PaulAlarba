@@ -1,7 +1,5 @@
-Hi, I'm Paul Alarba a first-year BSIT student at the University of Cebu main campus,
-I'm Interested in web/mobile development, and system administration.
-I also play chess when I get bored and in my free time, 
-you can play with me at lichess.com [PAUL_sEnpai](https://lichess.org/@/PAUL_sEnpai).
+I’m learning to become a Blockchain Developer! If you’d like to teach, guide, or just share knowledge.
+📩 Feel free to reach me at: [paulnicoralarba13@gmail.com](mailto:paulnicoralarba13@gmail.com)
 
 
 <!---
